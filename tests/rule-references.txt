@@ -3617,3 +3617,17 @@ https://www.x86matthew.com/view_post?id=create_svc_rpc
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
 https://www.elastic.co/guide/en/security/current/kubernetes-suspicious-self-subject-review.html
 https://twitter.com/DissectMalware/status/998797808907046913
+https://github.com/wavestone-cdt/EDRSandblast
+https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/push-protection-for-repositories-and-organizations
+https://www.virustotal.com/gui/file/602f4ae507fa8de57ada079adff25a6c2a899bd25cd092d0af7e62cdb619c93c/behavior
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.html#wp1127609
+https://github.com/0xthirteen/SharpMove/
+https://lolbas-project.github.io/lolbas/Binaries/Wlrmdr/
+https://github.com/thinkst/opencanary/blob/a0896adfcaf0328cfd5829fe10d2878c7445138e/opencanary/logger.py#L52
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-21-wmievent-wmieventconsumertofilter-activity-detected
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service?view=powershell-7.4
+https://redcanary.com/blog/msix-installers/
+https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
+https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/
